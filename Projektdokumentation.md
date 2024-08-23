@@ -30,11 +30,11 @@ Aus dem Stahl können neue Rüstungsteile und Werkzeuge hergestellt werden, welc
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Minecraft Mod gestartet Craftingtable geöffnet    |   3* Coblestone : 5* Iron ingot : 1* Glas     | *Item(Stahlofne)* |
+| 1.1  |Minecraft Mod gestartet Craftingtable geöffnet    |   3* Coblestone : 5* Iron ingot : 1* Glas     | *Item(Stahlofne)* |
 | 2.1  | Minecraft Mod gestartet Stahlofne geöffnet             |  linkes Feld (Kohle) rechtes Feld (Holzkohle)       |  *Output (Koks)* |
 | 2.2 | Minecraft Mod gestartet Stahlofne geöffnet  |   linkes Feld (Iron Ingot) rechtes Feld (Koks)  | *Output (Stahl)* |
-| 3.1 | Minecraft Mod gestartet Craftingtable geöffnet|  Sword recipe  | Output (Iron sword) |
-| ... |  |   |  |
+| 3.1 | Minecraft Mod gestartet Craftingtable geöffnet|  Sword recipe with steel | Output (steel sword) |
+| 4.1 | Minecraft Mod gestartet Craftingtable geöffnet | Pickaxe recipe | Output (steel pickaxe) |
 | ... |  |   |  |
 | ... |  |   |  |
 
