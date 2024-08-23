@@ -17,20 +17,27 @@ Wir implementieren ein neues Item: «Koks». Dieses kann man herstellen, in dem 
 Wir implementieren ein neues Item: «Stahl».
 Eisenerz kann in einem neuen, von uns implementierten Block, dem Stahlofen, mit Koks angereichert werden 🡪 Man erhält Stahl.
 Aus dem Stahl können neue Rüstungsteile und Werkzeuge hergestellt werden, welche eine höhere Belastbarkeit als Eisen aufweisen. Ebenfalls implementieren wir einen Stahlblock.
+
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1  |    Muss             |  Funktional    | Als Spieler möchte ich Kohle im Ofen verarbeiten können, um daraus Koks zu erhalten. |
+| 2  |    Muss             |  Funktional    | Als Spieler möchte ich einen neuen Ofen herstellen können, um damit dann Stahl herstellen zu können.                                   |
+| 3  |    Muss             |  Funktional    | Als Spieler möchte ich mit Eisen und Koks mit dem neuen Block interagieren können, damit ich damit dann Stahl herstellen kann.    |
+| 4  |    Muss             |  Funktional    | Als Spieler möchte ich mit Stahl neue Werkzeuge herstellen, damit ich diese als bessere Eisenalternative verwenden kann.           |
+| 5  |    Muss             |  Funktional    | Als Spieler möchte ich mit Stahl neue Rüstungsteile herstellen, damit ich diese als bessere Eisenalternative verwenden kann.            |
+| 6  |    Muss             |  Funktional    | Als Spieler möchte ich mit Stahl einen neuen Stahlblock herstellen, damit ich damit schöne Sachen bauen kann.                                |
+| 7  |    Muss             |  Funktional    | Als Spieler möchte ich bestehende Rüstungsteile mit Stahl verbessern können, damit diese dann stärker als zuvor sind.               |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
+Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modifikation gestartet wurde.
+
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |Minecraft Mod gestartet Craftingtable geöffnet    |   3* Coblestone : 5* Iron ingot : 1* Glas     | *Item(Stahlofne)* |
+| 1.1  | Ofen geöffnet, Brennstoff eingelegt  |  Kohle in Schmelzfach legen     | *Es wird Kohle zu Koks geschmolzen* |
 | 2.1  | Minecraft Mod gestartet Stahlofne geöffnet             |  linkes Feld (Kohle) rechtes Feld (Holzkohle)       |  *Output (Koks)* |
 | 2.2 | Minecraft Mod gestartet Stahlofne geöffnet  |   linkes Feld (Iron Ingot) rechtes Feld (Koks)  | *Output (Stahl)* |
 | 3.1 | Minecraft Mod gestartet Craftingtable geöffnet|  Sword recipe with steel | Output (steel sword) |
