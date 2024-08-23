@@ -10,6 +10,11 @@ Gruppenname: Hunt: Showdown 1896
 
 ## 1 Informieren
 
+YouTubecode Setup tutorial
+ 
+https://www.youtube.com/watch?v=0Pr_iHlVKsI
+Time 10:20
+
 ### 1.1 Ihr Projekt
 
 Wir erstellen einen Minecraft Mod für den Modloader «Fabric».
