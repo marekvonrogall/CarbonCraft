@@ -1,12 +1,10 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Gruppenname: Hunt: Showdown 1896
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|  23.208.2024     | 0.0.1   | Heute haben wir das Projekt aufgesetzt und auf GitHub geladen. Projektdokumentation aufgesetzt. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -14,8 +12,11 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-
+Wir erstellen einen Minecraft Mod für den Modloader «Fabric».
+Wir implementieren ein neues Item: «Koks». Dieses kann man herstellen, in dem man Kohle im Ofen verarbeitet.
+Wir implementieren ein neues Item: «Stahl».
+Eisenerz kann in einem neuen, von uns implementierten Block, dem Stahlofen, mit Koks angereichert werden 🡪 Man erhält Stahl.
+Aus dem Stahl können neue Rüstungsteile und Werkzeuge hergestellt werden, welche eine höhere Belastbarkeit als Eisen aufweisen. Ebenfalls implementieren wir einen Stahlblock.
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
@@ -29,8 +30,14 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Minecraft Mod gestartet Craftingtable geöffnet    |   3* Coblestone : 5* Iron ingot : 1* Glas     | *Item(Stahlofne)* |
+| 2.1  | Minecraft Mod gestartet Stahlofne geöffnet             |  linkes Feld (Kohle) rechtes Feld (Holzkohle)       |  *Output (Koks)* |
+| 2.2 | Minecraft Mod gestartet Stahlofne geöffnet  |   linkes Feld (Iron Ingot) rechtes Feld (Koks)  | *Output (Stahl)* |
+| 3.1 | Minecraft Mod gestartet Craftingtable geöffnet|  Sword recipe  | Output (Iron sword) |
+| ... |  |   |  |
+| ... |  |   |  |
+| ... |  |   |  |
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
