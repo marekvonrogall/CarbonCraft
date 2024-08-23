@@ -37,13 +37,21 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Ofen geöffnet, Brennstoff eingelegt  |  Kohle in Schmelzfach legen     | *Es wird Kohle zu Koks geschmolzen* |
-| 2.1  | Minecraft Mod gestartet Stahlofne geöffnet             |  linkes Feld (Kohle) rechtes Feld (Holzkohle)       |  *Output (Koks)* |
-| 2.2 | Minecraft Mod gestartet Stahlofne geöffnet  |   linkes Feld (Iron Ingot) rechtes Feld (Koks)  | *Output (Stahl)* |
-| 3.1 | Minecraft Mod gestartet Craftingtable geöffnet|  Sword recipe with steel | Output (steel sword) |
-| 4.1 | Minecraft Mod gestartet Craftingtable geöffnet | Pickaxe recipe | Output (steel pickaxe) |
-| ... |  |   |  |
-| ... |  |   |  |
+| 1.1  | Ofen geöffnet, Brennstoff eingelegt  |  Kohle in Schmelzfach legen     | Es wird Kohle zu Koks geschmolzen |
+| 2.1  | Werkbank geöffnet   |  Eisen, Bruchstein und Glas wird in das Herstellungsfeld gelegt       |  Stahlofen wird ausgegeben |
+| 3.1 | Stahlofen platziert  |   Rechtsklick auf Stahlofen  | Stahlofenmenü öffnet sich |
+| 3.2 | Stahlofen platziert, Menü geöffnet  |   Koks und Eisen werden eingesetzt  | Stahl wird ausgegeben |
+| 4.1 | Stahl hergestellt, Werkbank geöffnet | *Zwei Stöcke und 3 Stahl werden eingelegt* | Stahlspitzhacke wird hergestellt |
+| 4.2 | Stahl hergestellt, Werkbank geöffnet | *Ein Stock und 2 Stahl werden eingelegt* | Stahlschwert wird hergestellt |
+| 4.3 | Stahl hergestellt, Werkbank geöffnet | *Zwei Stöcke und 2 Stahl werden eingelegt* | Stahlhacke wird hergestellt |
+| 4.4 | Stahl hergestellt, Werkbank geöffnet | *Zwei Stöcke und 3 Stahl werden eingelegt* | Stahlaxt wird hergestellt |
+| 5.1 | Stahl hergestellt, Werkbank geöffnet | *5 Stahl werden eingelegt* | Stahlhelm wird hergestellt |
+| 5.2 | Stahl hergestellt, Werkbank geöffnet | *8 Stahl werden eingelegt* | Stahlbrustpanzer wird hergestellt |
+| 5.3 | Stahl hergestellt, Werkbank geöffnet | *7 Stahl werden eingelegt* | Stahlhose wird hergestellt |
+| 5.4 | Stahl hergestellt, Werkbank geöffnet | *4 Stahl werden eingelegt* | Stahlschuhe werden hergestellt |
+| 6.1 | Stahl hergestellt, Werkbank geöffnet | *9 Stahl werden eingelegt* | Stahlblock wird hergestellt |
+| 6.2 | Stahlblock hergestellt | Rechtsklick mit Stahlblock in der Hand | Stahlblock wird platziert |
+| 7.1 | Stahl hergestellt, mit Schmiedetisch interagiert | Eisenwerkzeug und Stahl werden in Schmiedetisch gelegt | Eisenwerkzeug wird zu Stahl verbessert |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
