@@ -70,16 +70,16 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Koks" wird modelliert.            |               |
-| 1.B  |  30.08.24     |  Marek von Rogall           |  Das Item "Koks" wird dem Spiel hinzugefügt.            |               |
-| 1.C  |  13.09.24     |  Marek von Rogall           |  Das Ofen-rezept für "Koks" wird dem Spiel hinzugefügt. |           |
+| 1.B  |  30.08.24     |  Manuel Jonas Greub           |  Das Item "Koks" wird dem Spiel hinzugefügt.            |               |
+| 1.C  |  13.09.24     |  Manuel Jonas Greub           |  Das Ofen-rezept für "Koks" wird dem Spiel hinzugefügt. |           |
 | 2.A  |  30.08.24     |  Marek von Rogall           |  Das Item "Stahlofen" wird modelliert. |           |
-| 2.B  |  06.09.24     |  Manuel Jonas Greub         |  Das Item "Stahlofen" wird dem Spiel hinzugefügt. |           |
+| 2.B  |  06.09.24     |  Marek von Rogall         |  Das Item "Stahlofen" wird dem Spiel hinzugefügt. |           |
 | 2.C  |  13.09.24     |  Marek von Rogall           |  Das Herstellungsrezept für den Stahlofen wird dem Spiel hinzugefügt. |           |
 | 2.D  |  20.09.24     |  Stefan Jesenko & Marek von Rogall |  Der Stahlofen erhält ein GUI. |           |
 | 3.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahl" wird modelliert. |           |
-| 3.B  |  06.09.24     |  Pascal Martin Oestrich     |  Das Item "Stahl" wird dem Spiel hinzugefügt. |           |
+| 3.B  |  30.08.24     |  Pascal Martin Oestrich     |  Das Item "Stahl" wird dem Spiel hinzugefügt. |           |
 | 3.C  |  13.09.24     |  Pascal Martin Oestrich     |  Das Rezept für Stahl (Werkbank) wird dem Spiel hinzugefügt. |           |
-| 3.D  |  20.09.24     |  Pascal Martin Oestrich & Manuel Jonas Greub  |  Der Stahlofen erhält die benötigte Logik, um Eisenerz und Kohle beim hineinlegen in Stahl umwandeln zu können. |           |
+| 3.D  |  20.09.24     |  Pascal Martin Oestrich & Marek von Rogall  |  Der Stahlofen erhält die benötigte Logik, um Eisenerz und Kohle beim hineinlegen in Stahl umwandeln zu können. |           |
 | 4.A  |  30.08.24     |  Stefan Jesenko             |  Die Stahlwerkzeug-Items werden modelliert. |           |
 | 4.B  |  20.09.24     |  Stefan Jesenko             |  Die Stahlwerkzeuge besitzen höhere Attribute als die Eisenwerkzeuge. |           |
 | 4.C  |  06.09.24     |  Stefan Jesenko             |  Die Stahlwerkzeuge werden dem Spiel hinzugefügt. |           |
