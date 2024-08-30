@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "carboncraft",
+	"version": "${version}",
+	"name": "CarbonCraft",
+	"description": "Minecraft Mod about Steel",
+	"authors": [
+		"Marek, Manuel, Pascal, Stefan"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/marekvonrogall/CarbonCraft"
+	},
+	"license": "MIT",
+	"icon": "assets/carboncraft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.ims.carboncraft.CarbonCraft"
+		],
+		"client": [
+			"net.ims.carboncraft.CarbonCraftClient"
+		],
+		"fabric-datagen": [
+			"net.ims.carboncraft.CarbonCraftDataGenerator"
+		]
+	},
+	"mixins": [
+		"carboncraft.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.2",
+		"minecraft": "~1.20.6",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
