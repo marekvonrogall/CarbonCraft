@@ -69,21 +69,21 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |  Das Item "Koks" wird modelliert.            |               |
+| 1.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Koks" wird modelliert.            |               |
 | 1.B  |       |           |  Das Ofen-rezept für "Koks" wird dem Spiel hinzugefügt. |           |
-| 2.A  |       |           |  Das Item "Stahlofen" wird modelliert. |           |
+| 2.A  |  30.08.24     |  Marek von Rogall         |  Das Item "Stahlofen" wird modelliert. |           |
 | 2.B  |       |           |  Das Herstellungsrezept für den Stahlofen wird dem Spiel hinzugefügt. |           |
 | 2.C  |       |           |  Der Stahlofen erhält ein GUI. |           |
-| 3.A  |       |           |  Das Item "Stahl" wird modelliert. |           |
+| 3.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahl" wird modelliert. |           |
 | 3.B  |       |           |  Das Rezept für Stahl (Werkbank) wird dem Spiel hinzugefügt. |           |
 | 3.C  |       |           |  Der Stahlofen erhält die benötigte Logik, um Eisenerz und Kohle beim hineinlegen in Stahl umwandeln zu können. |           |
-| 4.A  |       |           |  Die Stahlwerkzeug-Items werden modelliert. |           |
+| 4.A  |  30.08.24     |  Stefan Jesenko         |  Die Stahlwerkzeug-Items werden modelliert. |           |
 | 4.B  |       |           |  Die Stahlwerkzeuge besitzen höhere Attribute als die Eisenwerkzeuge. |           |
 | 4.C  |       |           |  Die Rezepte für Stahlwerkzeuge (Werkbank) werden dem Spiel hinzugefügt. |           |
-| 5.A  |       |           |  Die Stahlrüstungs-Items werden modelliert. |           |
+| 5.A  |  30.08.24     |  Pascal Martin Oestrich         |  Die Stahlrüstungs-Items werden modelliert. |           |
 | 5.B  |       |           |  Die Stahlrüstung besitzt höhere Attribute als die Eisenrüstung. |           |
 | 6.C  |       |           |  Die Rezepte für Stahlrüstung (Werkbank) werden dem Spiel hinzugefügt. |           |
-| 6.A  |       |           |  Das Item "Stahlblock" wird modelliert. |           |
+| 6.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahlblock" wird modelliert. |           |
 | 6.B  |       |           |  Das  Herstellungsrezept für den Stahlblock wird dem Spiel hinzugefügt. |           
 | 7.A  |       |           |  Die Rezepte für Stahlrüstung (Schmiedetisch) werden dem Spiel hinzugefügt. |           |
 | 7.B  |       |           |  Die Rezepte für Stahlwerkzeuge (Schmiedetisch) werden dem Spiel hinzugefügt. |           |
