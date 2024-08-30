@@ -70,23 +70,29 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Koks" wird modelliert.            |               |
-| 1.B  |       |           |  Das Ofen-rezept für "Koks" wird dem Spiel hinzugefügt. |           |
-| 2.A  |  30.08.24     |  Marek von Rogall         |  Das Item "Stahlofen" wird modelliert. |           |
-| 2.B  |       |           |  Das Herstellungsrezept für den Stahlofen wird dem Spiel hinzugefügt. |           |
-| 2.C  |       |           |  Der Stahlofen erhält ein GUI. |           |
+| 1.B  |  30.08.24     |  Marek von Rogall           |  Das Item "Koks" wird dem Spiel hinzugefügt.            |               |
+| 1.C  |  13.09.24     |  Marek von Rogall           |  Das Ofen-rezept für "Koks" wird dem Spiel hinzugefügt. |           |
+| 2.A  |  30.08.24     |  Marek von Rogall           |  Das Item "Stahlofen" wird modelliert. |           |
+| 2.B  |  06.09.24     |  Manuel Jonas Greub         |  Das Item "Stahlofen" wird dem Spiel hinzugefügt. |           |
+| 2.C  |  13.09.24     |  Marek von Rogall           |  Das Herstellungsrezept für den Stahlofen wird dem Spiel hinzugefügt. |           |
+| 2.D  |  20.09.24     |  Stefan Jesenko & Marek von Rogall |  Der Stahlofen erhält ein GUI. |           |
 | 3.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahl" wird modelliert. |           |
-| 3.B  |       |           |  Das Rezept für Stahl (Werkbank) wird dem Spiel hinzugefügt. |           |
-| 3.C  |       |           |  Der Stahlofen erhält die benötigte Logik, um Eisenerz und Kohle beim hineinlegen in Stahl umwandeln zu können. |           |
-| 4.A  |  30.08.24     |  Stefan Jesenko         |  Die Stahlwerkzeug-Items werden modelliert. |           |
-| 4.B  |       |           |  Die Stahlwerkzeuge besitzen höhere Attribute als die Eisenwerkzeuge. |           |
-| 4.C  |       |           |  Die Rezepte für Stahlwerkzeuge (Werkbank) werden dem Spiel hinzugefügt. |           |
-| 5.A  |  30.08.24     |  Pascal Martin Oestrich         |  Die Stahlrüstungs-Items werden modelliert. |           |
-| 5.B  |       |           |  Die Stahlrüstung besitzt höhere Attribute als die Eisenrüstung. |           |
-| 6.C  |       |           |  Die Rezepte für Stahlrüstung (Werkbank) werden dem Spiel hinzugefügt. |           |
+| 3.B  |  06.09.24     |  Pascal Martin Oestrich     |  Das Item "Stahl" wird dem Spiel hinzugefügt. |           |
+| 3.C  |  13.09.24     |  Pascal Martin Oestrich     |  Das Rezept für Stahl (Werkbank) wird dem Spiel hinzugefügt. |           |
+| 3.D  |  20.09.24     |  Pascal Martin Oestrich & Manuel Jonas Greub  |  Der Stahlofen erhält die benötigte Logik, um Eisenerz und Kohle beim hineinlegen in Stahl umwandeln zu können. |           |
+| 4.A  |  30.08.24     |  Stefan Jesenko             |  Die Stahlwerkzeug-Items werden modelliert. |           |
+| 4.B  |  20.09.24     |  Stefan Jesenko             |  Die Stahlwerkzeuge besitzen höhere Attribute als die Eisenwerkzeuge. |           |
+| 4.C  |  06.09.24     |  Stefan Jesenko             |  Die Stahlwerkzeuge werden dem Spiel hinzugefügt. |           |
+| 4.D  |  13.09.24     |  Stefan Jesenko             |  Die Rezepte für Stahlwerkzeuge (Werkbank) werden dem Spiel hinzugefügt. |           |
+| 5.A  |  30.08.24     |  Pascal Martin Oestrich     |  Die Stahlrüstungs-Items werden modelliert. |           |
+| 5.B  |  20.09.24     |  Pascal Martin Oestrich     |  Die Stahlrüstung besitzt höhere Attribute als die Eisenrüstung. |           |
+| 5.C  |  06.09.24     |  Pascal Martin Oestrich     |  Die Stahlrüstungs-Items werden dem Spiel hinzugefügt. |           |
+| 5.D  |  13.09.24     |  Pascal Martin Oestrich     |  Die Rezepte für Stahlrüstung (Werkbank) werden dem Spiel hinzugefügt. |           |
 | 6.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahlblock" wird modelliert. |           |
-| 6.B  |       |           |  Das  Herstellungsrezept für den Stahlblock wird dem Spiel hinzugefügt. |           
-| 7.A  |       |           |  Die Rezepte für Stahlrüstung (Schmiedetisch) werden dem Spiel hinzugefügt. |           |
-| 7.B  |       |           |  Die Rezepte für Stahlwerkzeuge (Schmiedetisch) werden dem Spiel hinzugefügt. |           |
+| 6.B  |  06.09.24     |  Marek von Rogall           |  Das Item "Stahlblock" wird dem Spiel hinzugefügt. |           |
+| 6.C  |  13.09.24     |  Manuel Jonas Greub         |  Das  Herstellungsrezept für den Stahlblock wird dem Spiel hinzugefügt. |           
+| 7.A  |  13.09.24     |  Manuel Jonas Greub         |  Die Rezepte für Stahlrüstung (Schmiedetisch) werden dem Spiel hinzugefügt. |           |
+| 7.B  |  13.09.24     |  Stefan Jesenko             |  Die Rezepte für Stahlwerkzeuge (Schmiedetisch) werden dem Spiel hinzugefügt. |           |
 
 Total: 
 
