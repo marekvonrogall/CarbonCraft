@@ -7,6 +7,6 @@
     "east": "carboncraft:block/steel_furnace_side",
     "south": "carboncraft:block/steel_furnace_side",
     "west": "carboncraft:block/steel_furnace_side",
-    "particles": "carboncraft:block/steel_furnace_down"
+    "particle": "carboncraft:block/steel_furnace_up"
   }
 }
