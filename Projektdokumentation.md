@@ -4,8 +4,8 @@ Gruppenname: Hunt: Showdown 1896
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|  23.208.2024     | 0.0.1   | Heute haben wir das Projekt aufgesetzt und auf GitHub geladen. Projektdokumentation aufgesetzt. |
-|       | ...     |                                                              |
+|  23.08.2024     | 0.0.1   | Heute haben wir das Projekt aufgesetzt und auf GitHub geladen. Projektdokumentation aufgesetzt. |
+|   30.08.2024    | 0.0.2     | Heute haben wir das Steel, Coke Item in das Spiel eingefügt und die Tools, Armor designt                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
