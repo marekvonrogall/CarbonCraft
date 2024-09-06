@@ -9,7 +9,7 @@ import net.minecraft.registry.tag.TagKey;
 
 
 public enum ModTools implements ToolMaterial {
-    STEEL(500, 7f, 3.5f, 12);
+    STEEL(500, -2.4f, 3.5f, 12);
 
 
 
