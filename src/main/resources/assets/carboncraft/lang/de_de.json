@@ -1,6 +1,8 @@
 {
   "item.carboncraft.steel_ingot": "Stahlbarren",
-  "item.carboncraft.koks": "Koks",
+  "item.carboncraft.coke": "Koks",
+  "block.carboncraft.steel_furnace": "Stahlofen",
+  "block.carboncraft.steel_block": "Stahlblock",
   "item.carboncraft.steel_axe": "Stahlaxt",
   "item.carboncraft.steel_pickaxe": "Stahlspitzhacke",
   "item.carboncraft.steel_hoe": "Stahlhacke",

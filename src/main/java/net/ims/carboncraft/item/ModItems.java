@@ -9,7 +9,8 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new Item.Settings()));
-    public static final Item KOKS = registerItem("koks", new Item(new Item.Settings()));
+    public static final Item COKE = registerItem("coke", new Item(new Item.Settings()));
+
 
     public static final Item STEEL_AXE = registerItem("steel_axe",
             new AxeItem(ModTools.STEEL, new Item.Settings()));
@@ -34,7 +35,7 @@ public class ModItems {
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(STEEL_INGOT);
-            entries.add(KOKS);
+            entries.add(COKE);
         });
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS)
                 .register(
