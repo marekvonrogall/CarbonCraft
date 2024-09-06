@@ -59,8 +59,6 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 | 7.1 | Stahl hergestellt, mit Schmiedetisch interagiert | Eisenwerkzeug und Stahl werden in Schmiedetisch gelegt | Eisenwerkzeug wird zu Stahl verbessert |
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
@@ -69,36 +67,34 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Koks" wird modelliert.            |               |
-| 1.B  |  30.08.24     |  Manuel Jonas Greub           |  Das Item "Koks" wird dem Spiel hinzugefügt.            |               |
-| 1.C  |  13.09.24     |  Manuel Jonas Greub           |  Das Ofen-rezept für "Koks" wird dem Spiel hinzugefügt. |           |
-| 2.A  |  30.08.24     |  Marek von Rogall           |  Das Item "Stahlofen" wird modelliert. |           |
-| 2.B  |  06.09.24     |  Marek von Rogall         |  Das Item "Stahlofen" wird dem Spiel hinzugefügt. |           |
-| 2.C  |  13.09.24     |  Marek von Rogall           |  Das Herstellungsrezept für den Stahlofen wird dem Spiel hinzugefügt. |           |
-| 2.D  |  20.09.24     |  Stefan Jesenko & Marek von Rogall |  Der Stahlofen erhält ein GUI. |           |
-| 3.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahl" wird modelliert. |           |
-| 3.B  |  30.08.24     |  Pascal Martin Oestrich     |  Das Item "Stahl" wird dem Spiel hinzugefügt. |           |
-| 3.C  |  13.09.24     |  Pascal Martin Oestrich     |  Das Rezept für Stahl (Werkbank) wird dem Spiel hinzugefügt. |           |
-| 3.D  |  20.09.24     |  Pascal Martin Oestrich & Marek von Rogall  |  Der Stahlofen erhält die benötigte Logik, um Eisenerz und Kohle beim hineinlegen in Stahl umwandeln zu können. |           |
-| 4.A  |  30.08.24     |  Stefan Jesenko             |  Die Stahlwerkzeug-Items werden modelliert. |           |
-| 4.B  |  20.09.24     |  Stefan Jesenko             |  Die Stahlwerkzeuge besitzen höhere Attribute als die Eisenwerkzeuge. |           |
-| 4.C  |  06.09.24     |  Stefan Jesenko             |  Die Stahlwerkzeuge werden dem Spiel hinzugefügt. |           |
-| 4.D  |  13.09.24     |  Stefan Jesenko             |  Die Rezepte für Stahlwerkzeuge (Werkbank) werden dem Spiel hinzugefügt. |           |
-| 5.A  |  30.08.24     |  Pascal Martin Oestrich     |  Die Stahlrüstungs-Items werden modelliert. |           |
-| 5.B  |  20.09.24     |  Pascal Martin Oestrich     |  Die Stahlrüstung besitzt höhere Attribute als die Eisenrüstung. |           |
-| 5.C  |  06.09.24     |  Pascal Martin Oestrich     |  Die Stahlrüstungs-Items werden dem Spiel hinzugefügt. |           |
-| 5.D  |  13.09.24     |  Pascal Martin Oestrich     |  Die Rezepte für Stahlrüstung (Werkbank) werden dem Spiel hinzugefügt. |           |
-| 6.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahlblock" wird modelliert. |           |
-| 6.B  |  06.09.24     |  Marek von Rogall           |  Das Item "Stahlblock" wird dem Spiel hinzugefügt. |           |
-| 6.C  |  13.09.24     |  Manuel Jonas Greub         |  Das  Herstellungsrezept für den Stahlblock wird dem Spiel hinzugefügt. |           
-| 7.A  |  13.09.24     |  Manuel Jonas Greub         |  Die Rezepte für Stahlrüstung (Schmiedetisch) werden dem Spiel hinzugefügt. |           |
-| 7.B  |  13.09.24     |  Stefan Jesenko             |  Die Rezepte für Stahlwerkzeuge (Schmiedetisch) werden dem Spiel hinzugefügt. |           |
+| 1.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Koks" wird modelliert.            |       0.5        |
+| 1.B  |  30.08.24     |  Manuel Jonas Greub           |  Das Item "Koks" wird dem Spiel hinzugefügt.            |       0.5        |
+| 1.C  |  13.09.24     |  Manuel Jonas Greub           |  Das Ofen-rezept für "Koks" wird dem Spiel hinzugefügt. |     0.6      |
+| 2.A  |  30.08.24     |  Marek von Rogall           |  Das Item "Stahlofen" wird modelliert. |       0.5    |
+| 2.B  |  06.09.24     |  Marek von Rogall         |  Das Item "Stahlofen" wird dem Spiel hinzugefügt. |    1.5       |
+| 2.C  |  13.09.24     |  Marek von Rogall           |  Das Herstellungsrezept für den Stahlofen wird dem Spiel hinzugefügt. |     2      |
+| 2.D  |  20.09.24     |  Stefan Jesenko & Marek von Rogall |  Der Stahlofen erhält ein GUI. |     3      |
+| 3.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahl" wird modelliert. |     0.5      |
+| 3.B  |  30.08.24     |  Pascal Martin Oestrich     |  Das Item "Stahl" wird dem Spiel hinzugefügt. |    0.5       |
+| 3.C  |  13.09.24     |  Pascal Martin Oestrich     |  Das Rezept für Stahl (Werkbank) wird dem Spiel hinzugefügt. |    2       |
+| 3.D  |  20.09.24     |  Pascal Martin Oestrich & Marek von Rogall  |  Der Stahlofen erhält die benötigte Logik, um Eisenerz und Kohle beim hineinlegen in Stahl umwandeln zu können. |    3       |
+| 4.A  |  30.08.24     |  Stefan Jesenko             |  Die Stahlwerkzeug-Items werden modelliert. |        1   |
+| 4.B  |  20.09.24     |  Stefan Jesenko             |  Die Stahlwerkzeuge besitzen höhere Attribute als die Eisenwerkzeuge. |     3      |
+| 4.C  |  06.09.24     |  Stefan Jesenko             |  Die Stahlwerkzeuge werden dem Spiel hinzugefügt. |     1      |
+| 4.D  |  13.09.24     |  Stefan Jesenko             |  Die Rezepte für Stahlwerkzeuge (Werkbank) werden dem Spiel hinzugefügt. |     0.5      |
+| 5.A  |  30.08.24     |  Pascal Martin Oestrich     |  Die Stahlrüstungs-Items werden modelliert. |     1      |
+| 5.B  |  20.09.24     |  Pascal Martin Oestrich     |  Die Stahlrüstung besitzt höhere Attribute als die Eisenrüstung. |    1       |
+| 5.C  |  06.09.24     |  Pascal Martin Oestrich     |  Die Stahlrüstungs-Items werden dem Spiel hinzugefügt. |    0.5       |
+| 5.D  |  13.09.24     |  Pascal Martin Oestrich     |  Die Rezepte für Stahlrüstung (Werkbank) werden dem Spiel hinzugefügt. |    1       |
+| 6.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahlblock" wird modelliert. |     0.5      |
+| 6.B  |  06.09.24     |  Marek von Rogall           |  Das Item "Stahlblock" wird dem Spiel hinzugefügt. |    0.5       |
+| 6.C  |  13.09.24     |  Manuel Jonas Greub         |  Das  Herstellungsrezept für den Stahlblock wird dem Spiel hinzugefügt. |     0.5  |    
+| 7.A  |  13.09.24     |  Manuel Jonas Greub         |  Die Rezepte für Stahlrüstung (Schmiedetisch) werden dem Spiel hinzugefügt. |     1      |
+| 7.B  |  13.09.24     |  Stefan Jesenko             |  Die Rezepte für Stahlwerkzeuge (Schmiedetisch) werden dem Spiel hinzugefügt. |     1      |
 
-Total: 
+1 Arbeitsblock = 45 Minuten
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: 27.1 Arbeitsblöcke = 1’219.5 Minuten
 
 ## 3 Entscheiden
 
@@ -106,10 +102,33 @@ Total:
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| AP-№ | Datum       | Zuständig                     | geplante Zeit | tatsächliche Zeit |
+| ---- | ----------- | ----------------------------- | ------------- | ----------------- |
+| 1.A  | 30.08.2024  | Manuel Jonas Greub            | 0.5           | 0.5               |
+| 1.B  | 30.08.2024  | Manuel Jonas Greub            | 0.5           | 0.5               |
+| 1.C  | 13.09.2024  | Manuel Jonas Greub            | 0.6           |                   |
+| 2.A  | 30.08.2024  | Marek von Rogall              | 0.5           | 0.5               |
+| 2.B  | 06.09.2024  | Marek von Rogall              | 1.5           |                   |
+| 2.C  | 13.09.2024  | Marek von Rogall              | 2             |                   |
+| 2.D  | 20.09.2024  | Stefan Jesenko & Marek von Rogall | 3         |                   |
+| 3.A  | 30.08.2024  | Manuel Jonas Greub            | 0.5           |                   |
+| 3.B  | 30.08.2024  | Pascal Martin Oestrich        | 0.5           |                   |
+| 3.C  | 13.09.2024  | Pascal Martin Oestrich        | 2             |                   |
+| 3.D  | 20.09.2024  | Pascal Martin Oestrich & Marek von Rogall | 3   |                   |
+| 4.A  | 30.08.2024  | Stefan Jesenko                | 1             |                   |
+| 4.B  | 20.09.2024  | Stefan Jesenko                | 3             |                   |
+| 4.C  | 06.09.2024  | Stefan Jesenko                | 1             |                   |
+| 4.D  | 13.09.2024  | Stefan Jesenko                | 0.5           |                   |
+| 5.A  | 30.08.2024  | Pascal Martin Oestrich        | 1             |                   |
+| 5.B  | 20.09.2024  | Pascal Martin Oestrich        | 1             |                   |
+| 5.C  | 06.09.2024  | Pascal Martin Oestrich        | 0.5           |                   |
+| 5.D  | 13.09.2024  | Pascal Martin Oestrich        | 1             |                   |
+| 6.A  | 30.08.2024  | Manuel Jonas Greub            | 0.5           |                   |
+| 6.B  | 06.09.2024  | Marek von Rogall              | 0.5           |                   |
+| 6.C  | 13.09.2024  | Manuel Jonas Greub            | 0.5           |                   |
+| 7.A  | 13.09.2024  | Manuel Jonas Greub            | 1             |                   |
+| 7.B  | 13.09.2024  | Stefan Jesenko                | 1             |                   |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
