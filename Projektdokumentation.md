@@ -150,7 +150,7 @@ Total: 27.1 Arbeitsblöcke = 1’219.5 Minuten
 | 5.C  | 06.09.2024  | Pascal Martin Oestrich        | 0.5           |                   |
 | 5.D  | 13.09.2024  | Pascal Martin Oestrich        | 1             |                   |
 | 6.A  | 30.08.2024  | Manuel Jonas Greub            | 0.5           |                   |
-| 6.B  | 06.09.2024  | Marek von Rogall              | 0.5           |                   |
+| 6.B  | 06.09.2024  | Marek von Rogall              | 0.5           |     0.3           |
 | 6.C  | 13.09.2024  | Manuel Jonas Greub            | 0.5           |                   |
 | 7.A  | 13.09.2024  | Manuel Jonas Greub            | 1             |                   |
 | 7.B  | 13.09.2024  | Stefan Jesenko                | 1             |                   |
