@@ -10,7 +10,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new Item.Settings()));
-    public static final Item KOKS = registerItem("koks", new Item(new Item.Settings()));
+    public static final Item COKE = registerItem("coke", new Item(new Item.Settings()));
 
     private static Item registerItem(String name, Item item){
         return Registry.register(Registries.ITEM, new Identifier(CarbonCraft.MOD_ID, name), item);
@@ -21,7 +21,7 @@ public class ModItems {
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(STEEL_INGOT);
-            entries.add(KOKS);
+            entries.add(COKE);
         });
     }
 }
