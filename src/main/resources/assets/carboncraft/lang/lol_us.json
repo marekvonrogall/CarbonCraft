@@ -1,6 +1,11 @@
 {
-  "item.carboncraft.steel_ingot": "STAL INgot",
+  "item.carboncraft.steel_ingot": "STAL INGOD",
   "item.carboncraft.coke": "KOK",
   "block.carboncraft.steel_furnace": "HOT STEL",
-  "block.carboncraft.steel_block": "STEEL BLUCK"
+  "block.carboncraft.steel_block": "STEEL BLUCK",
+  "item.carboncraft.steel_axe": "stel ex",
+  "item.carboncraft.steel_pickaxe": "STUL PICKLE",
+  "item.carboncraft.steel_hoe": "STEAL HOE",
+  "item.carboncraft.steel_shovel": "steel showel",
+  "item.carboncraft.steel_sword": "SHARP STAL"
 }
