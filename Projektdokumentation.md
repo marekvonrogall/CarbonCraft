@@ -84,6 +84,8 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 <img src="https://github.com/user-attachments/assets/8668d747-be07-492d-baaa-176579015e1f" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/826b7e6f-714d-4b33-8bd0-5acfbfaf52af" width="50" height="50">
 
+#### Tools
+
 
 
 
