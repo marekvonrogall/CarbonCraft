@@ -17,6 +17,9 @@ public class ModBlocks {
     public static final Block STEEL_FURNACE = registerBlock("steel_furnace",
             new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.STONE)));
 
+    public static final Block STEEL_BLOCK = registerBlock("steel_block",
+            new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.STONE)));
+
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, Identifier.of(CarbonCraft.MOD_ID, name), block);
@@ -32,6 +35,7 @@ public class ModBlocks {
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(entries -> {
             entries.add(ModBlocks.STEEL_FURNACE);
+            entries.add(ModBlocks.STEEL_BLOCK);
         });
     }
 }

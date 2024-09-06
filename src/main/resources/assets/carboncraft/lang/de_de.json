@@ -1,5 +1,6 @@
 {
   "item.carboncraft.steel_ingot": "Stahlbarren",
   "item.carboncraft.koks": "Koks",
-  "block.carboncraft.steel_furnace": "Stahlofen"
+  "block.carboncraft.steel_furnace": "Stahlofen",
+  "block.carboncraft.steel_block": "Stahlblock"
 }
