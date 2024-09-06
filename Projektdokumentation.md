@@ -63,6 +63,30 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
+#### Items
+<img src= "https://github.com/user-attachments/assets/35740aa1-7eb2-42c5-8182-3c10433b951c" width="50" hight="50">
+<img src= "https://github.com/user-attachments/assets/64bc790f-2de1-416e-a543-a24aed83171d" width="50" hight="50">
+<img src= "https://github.com/user-attachments/assets/f15ebae5-c203-4c33-9b1c-706dcce2f242" width="50" hight="50">
+
+#### Armor
+<img src= "https://github.com/user-attachments/assets/b27c1711-ca08-44b0-9842-12782d191cf5" width="50" hight="50">
+<img src= "https://github.com/user-attachments/assets/9931ca6b-5b41-4e9a-ba34-e785f00ed579" width="50" hight="50">
+<img src= "https://github.com/user-attachments/assets/9c6fe80e-5301-4ed1-9572-090d5a7f9ca1" width="50" hight="50">
+<img src= "https://github.com/user-attachments/assets/e4807981-6d92-457c-a4fe-02573b0c5ad2" width="50" hight="50">
+
+#### Armor Layer
+<img src= "https://github.com/user-attachments/assets/07c98873-8a80-44e6-b0e3-24365b4c0bc1" width="50" hight="50">
+<img src= "https://github.com/user-attachments/assets/1823e17d-38f9-40ed-9bf9-ff7c3a026a3e" width="50" hight="50">
+
+#### Furnace
+<img src= "https://github.com/user-attachments/assets/d664f38e-379d-48e8-964d-1a866795c1a1" width="50" hight="50">
+<img src="https://github.com/user-attachments/assets/90f00f3e-cc00-433a-a13b-d923cb60bfb5" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/8668d747-be07-492d-baaa-176579015e1f" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/826b7e6f-714d-4b33-8bd0-5acfbfaf52af" width="50" height="50">
+
+
+
+
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
