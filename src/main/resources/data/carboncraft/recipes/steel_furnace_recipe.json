@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "I#I",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "minecraft:furnace"
+    },
+    "X": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result":  {
+    "id": "carboncraft:steel_furnace"
+  }
+}
