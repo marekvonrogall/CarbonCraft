@@ -6,7 +6,7 @@ import net.minecraft.recipe.Ingredient;
 import net.minecraft.registry.tag.BlockTags;
 import net.minecraft.registry.tag.TagKey;
 
-import java.util.function.Supplier;
+
 
 public enum ModTools implements ToolMaterial {
     STEEL(500, 7f, 3.5f, 12);
