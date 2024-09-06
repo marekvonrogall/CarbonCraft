@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carboncraft:block/steel_furnace_down",
+    "up": "carboncraft:block/steel_furnace_up",
+    "north": "carboncraft:block/steel_furnace_front",
+    "east": "carboncraft:block/steel_furnace_side",
+    "south": "carboncraft:block/steel_furnace_side",
+    "west": "carboncraft:block/steel_furnace_side",
+    "particles": "carboncraft:block/steel_furnace_down"
+  }
+}

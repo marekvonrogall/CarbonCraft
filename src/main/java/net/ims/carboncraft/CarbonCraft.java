@@ -2,6 +2,7 @@ package net.ims.carboncraft;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.ims.carboncraft.block.ModBlocks;
 import net.ims.carboncraft.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -20,7 +21,6 @@ public class CarbonCraft implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 		ModItems.registerModItems();
-
-		LOGGER.info("Hello Fabric world!");
+		ModBlocks.registerModBlocks();
 	}
 }

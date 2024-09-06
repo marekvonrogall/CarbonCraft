@@ -12,7 +12,6 @@ public class ModItems {
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new Item.Settings()));
     public static final Item KOKS = registerItem("koks", new Item(new Item.Settings()));
 
-
     private static Item registerItem(String name, Item item){
         return Registry.register(Registries.ITEM, new Identifier(CarbonCraft.MOD_ID, name), item);
     }
