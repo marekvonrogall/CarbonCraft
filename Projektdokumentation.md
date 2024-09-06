@@ -134,7 +134,7 @@ Total: 27.1 Arbeitsblöcke = 1’219.5 Minuten
 | 1.B  | 30.08.2024  | Manuel Jonas Greub            | 0.5           | 0.5               |
 | 1.C  | 13.09.2024  | Manuel Jonas Greub            | 0.6           |                   |
 | 2.A  | 30.08.2024  | Marek von Rogall              | 0.5           | 0.5               |
-| 2.B  | 06.09.2024  | Marek von Rogall              | 1.5           |                   |
+| 2.B  | 06.09.2024  | Marek von Rogall              | 1.5           | 1.5               |
 | 2.C  | 13.09.2024  | Marek von Rogall              | 2             |                   |
 | 2.D  | 20.09.2024  | Stefan Jesenko & Marek von Rogall | 3         |                   |
 | 3.A  | 30.08.2024  | Manuel Jonas Greub            | 0.5           |                   |
