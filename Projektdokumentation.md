@@ -102,7 +102,7 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 | 2.D  |  20.09.24     |  Stefan Jesenko & Marek von Rogall |  Der Stahlofen erhält ein GUI. |     3      |
 | 3.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahl" wird modelliert. |     0.5      |
 | 3.B  |  30.08.24     |  Pascal Martin Oestrich     |  Das Item "Stahl" wird dem Spiel hinzugefügt. |    0.5       |
-| 3.C  |  13.09.24     |  Pascal Martin Oestrich     |  Das Rezept für den Stahlblock (Werkbank) wird dem Spiel hinzugefügt. |    2       |
+| 3.C  |  13.09.24     |  Pascal Martin Oestrich     |  Das Rezept für Stahl (Stahlblock zu 9x Stahl) wird dem Spiel hinzugefügt. |    2       |
 | 3.D  |  20.09.24     |  Pascal Martin Oestrich & Marek von Rogall  |  Der Stahlofen erhält die benötigte Logik, um Eisenerz und Kohle beim hineinlegen in Stahl umwandeln zu können. |    3       |
 | 4.A  |  30.08.24     |  Stefan Jesenko             |  Die Stahlwerkzeug-Items werden modelliert. |        1   |
 | 4.B  |  20.09.24     |  Stefan Jesenko             |  Die Stahlwerkzeuge besitzen höhere Attribute als die Eisenwerkzeuge. |     3      |
