@@ -1,12 +1,16 @@
 {
- "type": "minecraft:smithing",
-  "base": {
-    "item": "minecraft:iron_sword"
-  },
+  "type": "minecraft:smithing_transform",
   "addition": {
     "item": "carboncraft:steel_ingot"
   },
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
   "result": {
-    "item": "carboncraft:steel_sword"
+    "count": 1,
+    "id": "carboncraft:steel_sword"
+  },
+  "template": {
+    "item": "carboncraft:steel_ingot"
   }
 }
