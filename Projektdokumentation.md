@@ -143,7 +143,7 @@ Total: 27.1 Arbeitsblöcke = 1’219.5 Minuten
 | 3.B  | 30.08.2024  | Pascal Martin Oestrich        | 0.5           |    0.5               |
 | 3.C  | 13.09.2024  | Pascal Martin Oestrich        | 0.5             |    0.1               |
 | 3.D  | 20.09.2024  | Pascal Martin Oestrich & Marek von Rogall | 3   |                   |
-| 3.E  | 13.09.2024  | Marek von Rogall              | 0.5           |                   |
+| 3.E  | 13.09.2024  | Marek von Rogall              | 0.5           |      0.7             |
 | 4.A  | 30.08.2024  | Stefan Jesenko                | 1             |                   |
 | 4.B  | 20.09.2024  | Stefan Jesenko                | 3             |                   |
 | 4.C  | 06.09.2024  | Stefan Jesenko                | 1             |    3              |
@@ -155,7 +155,7 @@ Total: 27.1 Arbeitsblöcke = 1’219.5 Minuten
 | 6.A  | 30.08.2024  | Manuel Jonas Greub            | 0.5           | 0.5               |
 | 6.B  | 06.09.2024  | Marek von Rogall              | 0.5           |     0.5           |
 | 6.C  | 13.09.2024  | Manuel Jonas Greub            | 0.5           |     0.1           |
-| 6.D  | 13.09.2024  | Marek von Rogall              | 0.5           |                   |
+| 6.D  | 13.09.2024  | Marek von Rogall              | 0.5           |     0.5            |
 | 7.A  | 13.09.2024  | Manuel Jonas Greub            | 1             |                   |
 | 7.B  | 13.09.2024  | Stefan Jesenko                | 1             |                   |
 
