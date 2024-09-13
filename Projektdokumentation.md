@@ -100,6 +100,7 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 | 2.B  |  06.09.24     |  Marek von Rogall         |  Das Item "Stahlofen" wird dem Spiel hinzugefügt. |    1.5       |
 | 2.C  |  13.09.24     |  Marek von Rogall           |  Das Herstellungsrezept für den Stahlofen wird dem Spiel hinzugefügt. |     2      |
 | 2.D  |  20.09.24     |  Stefan Jesenko & Marek von Rogall |  Der Stahlofen erhält ein GUI. |     3      |
+| 3.E  |  13.09.24     |  Marek von Rogall         |  Der Stahlofen kann mit einer Eisenspitzhacke abgebaut werden und droppt einen Stahlofen. |     0.5  | 
 | 3.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahl" wird modelliert. |     0.5      |
 | 3.B  |  30.08.24     |  Pascal Martin Oestrich     |  Das Item "Stahl" wird dem Spiel hinzugefügt. |    0.5       |
 | 3.C  |  13.09.24     |  Pascal Martin Oestrich     |  Das Rezept für Stahl (Stahlblock zu 9x Stahl) wird dem Spiel hinzugefügt. |    0.5       |
@@ -115,6 +116,7 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 | 6.A  |  30.08.24     |  Manuel Jonas Greub         |  Das Item "Stahlblock" wird modelliert. |     0.5      |
 | 6.B  |  06.09.24     |  Marek von Rogall           |  Das Item "Stahlblock" wird dem Spiel hinzugefügt. |    0.5       |
 | 6.C  |  13.09.24     |  Manuel Jonas Greub         |  Das  Herstellungsrezept für den Stahlblock wird dem Spiel hinzugefügt. |     0.5  |    
+| 6.D  |  13.09.24     |  Marek von Rogall         |  Der Stahlblock kann mit einer Eisenspitzhacke abgebaut werden und droppt einen Stahlblock. |     0.5  |    
 | 7.A  |  13.09.24     |  Manuel Jonas Greub         |  Die Rezepte für Stahlrüstung (Schmiedetisch) werden dem Spiel hinzugefügt. |     1      |
 | 7.B  |  13.09.24     |  Stefan Jesenko             |  Die Rezepte für Stahlwerkzeuge (Schmiedetisch) werden dem Spiel hinzugefügt. |     1      |
 
@@ -141,6 +143,7 @@ Total: 27.1 Arbeitsblöcke = 1’219.5 Minuten
 | 3.B  | 30.08.2024  | Pascal Martin Oestrich        | 0.5           |    0.5               |
 | 3.C  | 13.09.2024  | Pascal Martin Oestrich        | 0.5             |    0.1               |
 | 3.D  | 20.09.2024  | Pascal Martin Oestrich & Marek von Rogall | 3   |                   |
+| 3.E  | 13.09.2024  | Marek von Rogall              | 0.5           |                   |
 | 4.A  | 30.08.2024  | Stefan Jesenko                | 1             |                   |
 | 4.B  | 20.09.2024  | Stefan Jesenko                | 3             |                   |
 | 4.C  | 06.09.2024  | Stefan Jesenko                | 1             |    3              |
@@ -152,6 +155,7 @@ Total: 27.1 Arbeitsblöcke = 1’219.5 Minuten
 | 6.A  | 30.08.2024  | Manuel Jonas Greub            | 0.5           | 0.5               |
 | 6.B  | 06.09.2024  | Marek von Rogall              | 0.5           |     0.5           |
 | 6.C  | 13.09.2024  | Manuel Jonas Greub            | 0.5           |     0.1           |
+| 6.D  | 13.09.2024  | Marek von Rogall              | 0.5           |                   |
 | 7.A  | 13.09.2024  | Manuel Jonas Greub            | 1             |                   |
 | 7.B  | 13.09.2024  | Stefan Jesenko                | 1             |                   |
 
