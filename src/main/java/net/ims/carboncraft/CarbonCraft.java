@@ -3,6 +3,7 @@ package net.ims.carboncraft;
 import net.fabricmc.api.ModInitializer;
 
 import net.ims.carboncraft.block.ModBlocks;
+import net.ims.carboncraft.item.ModArmorMaterials;
 import net.ims.carboncraft.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -22,5 +23,6 @@ public class CarbonCraft implements ModInitializer {
 		// Proceed with mild caution.
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
 	}
 }
