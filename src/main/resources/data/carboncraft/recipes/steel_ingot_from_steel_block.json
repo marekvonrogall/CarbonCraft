@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " # ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "carboncraft:steel_block"
+    }
+  },
+  "result":  {
+    "id": "carboncraft:steel_ingot",
+    "count": 9
+  }
+}
