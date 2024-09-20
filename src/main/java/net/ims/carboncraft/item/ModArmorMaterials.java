@@ -21,16 +21,16 @@ import java.util.function.Supplier;
 public class ModArmorMaterials{
 
     public static final RegistryEntry<ArmorMaterial> STEEL = register("steel", Util.make(new EnumMap(ArmorItem.Type.class), map -> {
-        map.put(ArmorItem.Type.BOOTS, 1);
-        map.put(ArmorItem.Type.LEGGINGS, 2);
-        map.put(ArmorItem.Type.CHESTPLATE, 3);
-        map.put(ArmorItem.Type.HELMET, 1);
-        map.put(ArmorItem.Type.BODY, 3);
+        map.put(ArmorItem.Type.BOOTS, 2);
+        map.put(ArmorItem.Type.LEGGINGS, 6);
+        map.put(ArmorItem.Type.CHESTPLATE, 5);
+        map.put(ArmorItem.Type.HELMET, 2);
+        map.put(ArmorItem.Type.BODY, 5);
     }), 15, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 0.0f, 0.0f, () -> Ingredient.ofItems(ModItems.STEEL_INGOT), List.of(new ArmorMaterial.Layer(new Identifier("steel"), "", true), new ArmorMaterial.Layer(new Identifier("steel"), "_overlay", false)));
 
 
     public static RegistryEntry<ArmorMaterial> getDefault(Registry<ArmorMaterial> registry) {
-        return ArmorMaterials.LEATHER;
+        return ArmorMaterials.IRON;
     }
 
     private static RegistryEntry<ArmorMaterial> register(String id, EnumMap<ArmorItem.Type, Integer> defense, int enchantability, RegistryEntry<SoundEvent> equipSound, float toughness, float knockbackResistance, Supplier<Ingredient> repairIngredient) {
