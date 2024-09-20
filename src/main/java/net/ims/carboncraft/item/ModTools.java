@@ -1,6 +1,7 @@
 package net.ims.carboncraft.item;
 
 import net.minecraft.block.Block;
+import net.minecraft.item.Items;
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;
 import net.minecraft.registry.tag.BlockTags;
@@ -9,7 +10,7 @@ import net.minecraft.registry.tag.TagKey;
 
 
 public enum ModTools implements ToolMaterial {
-    STEEL(500, 3f, 3.5f, 12);
+    STEEL(500, 6.0f, 2.5f, 14);
 
 
 
