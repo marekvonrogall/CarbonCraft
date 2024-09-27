@@ -11,5 +11,6 @@
   "item.carboncraft.steel_helmet": "Stel Helm",
   "item.carboncraft.steel_chestplate": "STEAL CHUSTPLATE",
   "item.carboncraft.steel_leggings": "ste leg",
-  "item.carboncraft.steel_boots": "stel bot"
+  "item.carboncraft.steel_boots": "stel bot",
+  "itemgroup.carboncraft": "carbo item"
 }
