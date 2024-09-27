@@ -2,16 +2,18 @@ package net.ims.carboncraft.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.ims.carboncraft.CarbonCraft;
+import net.minecraft.component.DataComponentTypes;
+import net.minecraft.component.type.FoodComponents;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import net.minecraft.item.ArmorMaterials;
+import net.minecraft.util.Rarity;
 
 public class ModItems {
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new Item.Settings()));
-    public static final Item COKE = registerItem("coke", new Item(new Item.Settings()));
-
+    public static final Item COKE = registerItem("coke", new Item(new Item.Settings().food(ModFoodComponents.FoodList.COKE)));
 
     public static final Item STEEL_AXE = registerItem("steel_axe",
             new AxeItem(ModTools.STEEL, new Item.Settings()));
@@ -46,6 +48,8 @@ public class ModItems {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(STEEL_INGOT);
             entries.add(COKE);
+
+
         });
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS)
                 .register(
