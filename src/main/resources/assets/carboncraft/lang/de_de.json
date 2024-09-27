@@ -11,5 +11,6 @@
   "item.carboncraft.steel_helmet": "Stahlhelm",
   "item.carboncraft.steel_chestplate": "Stahlbrustpanzer",
   "item.carboncraft.steel_leggings": "Stahlhose",
-  "item.carboncraft.steel_boots": "Stahlstiefel"
+  "item.carboncraft.steel_boots": "Stahlstiefel",
+  "itemgroup.carboncraft": "CarbonCraft Gegenstände"
 }

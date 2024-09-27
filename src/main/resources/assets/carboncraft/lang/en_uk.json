@@ -11,5 +11,6 @@
   "item.carboncraft.steel_helmet": "Steel Helmet",
   "item.carboncraft.steel_chestplate": "Steel Chestplate",
   "item.carboncraft.steel_leggings": "Steel Leggings",
-  "item.carboncraft.steel_boots": "Steel Boots"
+  "item.carboncraft.steel_boots": "Steel Boots",
+  "itemgroup.carboncraft": "CarbonCraft Items"
 }

@@ -18,7 +18,7 @@ public class ModBlocks {
             new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.STONE)));
 
     public static final Block STEEL_BLOCK = registerBlock("steel_block",
-            new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.STONE)));
+            new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.LANTERN)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
