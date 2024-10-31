@@ -8,4 +8,4 @@ Featuring a whole new armor and tool set, this mod has everything a Minecraft pl
 The new steel block and steel furnace were designed to provide more gameplay content and allow players' creativity to run wild.
 Coke, an essential ingredient for steel production, is required to craft steel ingots.
 
-![CarbonCraft_Showcase](https://github.com/user-attachments/assets/c2da124d-4995-4eed-afcd-efd5871cbd9b)
+![CarbonCraft_ShowcaseImage](https://github.com/user-attachments/assets/4b7b9330-6c3d-4335-baf1-95a849a987dd)
