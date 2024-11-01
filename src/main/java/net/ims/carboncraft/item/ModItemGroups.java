@@ -2,6 +2,7 @@ package net.ims.carboncraft.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.ims.carboncraft.CarbonCraft;
+import net.ims.carboncraft.block.ModBlocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -29,7 +30,8 @@ public class ModItemGroups {
                         entries.add(ModItems.STEEL_CHESTPLATE);
                         entries.add(ModItems.STEEL_LEGGINGS);
                         entries.add(ModItems.STEEL_BOOTS);
-
+                        entries.add(ModBlocks.STEEL_BLOCK);
+                        entries.add(ModBlocks.STEEL_FURNACE);
                     }).build());
     public static void registerItemGroups() {
         CarbonCraft.LOGGER.info("Registering Item Groups for " + CarbonCraft.MOD_ID);
