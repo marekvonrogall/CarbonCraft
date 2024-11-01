@@ -6,7 +6,12 @@ Gruppenname: Hunt: Showdown 1896
 | ----- | ------- | ------------------------------------------------------------ |
 |  23.08.2024     | 0.0.1   | Heute haben wir das Projekt aufgesetzt und auf GitHub geladen. Projektdokumentation aufgesetzt. |
 |   30.08.2024    | 0.0.2     | Heute haben wir das Steel, Coke Item in das Spiel eingefügt und die Tools, Armor designt                                                              |
-|       | 1.0.0   |                                                              |
+|  06.09.2024     | 0.0.3   |  Koks rezept, Stahl modelliert, Stahlblock modelliert.                                                           |
+| 13.09.2024      | 0.0.4   |  Rezepte für Stahl, Stahlblock, Stahlwerkzeuge hinzugefügt, Stahlrüstung hinzugefügt, Blockeigenschaften hinzugefügt, Abbaugeschwindigkeit angepasst.                                                            |
+| 20.09.2024      | 0.0.5   |  Angriffsschaden korrigiert, Stahlrüstung korrigiert, Rezept für Stahlrüstung hinzugefügt                                                            |
+|27.09.2024       | 0.0.6   | Stahlrüstung wird jetzt richtig angezeigt, eigene Seite im Kreativmodus, Koks ist jetzt essbar                                                             |
+|01.11.2024       | 1.0.0   | Einzelne Bugfixes, Tests durchgeführt, Reflexion verfasst   |
+
 
 ## 1 Informieren
 
