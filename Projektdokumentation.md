@@ -206,3 +206,5 @@ Pascal Oestrich Portfolio: https://portfolio.bbbaden.ch/view/view.php?t=4c2a202f
 
 Manuel Greub Portfolio: https://portfolio.bbbaden.ch/view/view.php?t=803f0c264a74c71c7bfe
 
+Marek von Rogall Portfolio: https://portfolio.bbbaden.ch/view/view.php?t=1b0f2172234e3183e0da
+
