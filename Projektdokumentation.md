@@ -195,4 +195,5 @@ Die Tests sind generell gut gelaufen, dass einzige was nicht funktioniert hat, w
 
 ## 6 Auswerten
 
+Stefan Jesenko Portfolio: https://portfolio.bbbaden.ch/view/view.php?t=3a11d5374924edf5cf03
 
