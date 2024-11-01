@@ -197,5 +197,5 @@ Die Tests sind generell gut gelaufen, dass einzige was nicht funktioniert hat, w
 
 Stefan Jesenko Portfolio: https://portfolio.bbbaden.ch/view/view.php?t=3a11d5374924edf5cf03
 
-Pascal Oestrich portfolio: https://portfolio.bbbaden.ch/view/view.php?t=4c2a202fc82ead831cf2
+Pascal Oestrich Portfolio: https://portfolio.bbbaden.ch/view/view.php?t=4c2a202fc82ead831cf2
 
