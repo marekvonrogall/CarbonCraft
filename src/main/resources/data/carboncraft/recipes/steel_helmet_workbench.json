@@ -1,22 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern":[
-
-
-    " # ",
-    " # ",
-    " | "
+    "###",
+    "# #",
+    "   "
   ],
   "key": {
     "#": {
       "item": "carboncraft:steel_ingot"
-    },
-    "|": {
-      "item": "minecraft:stick"
     }
-
   },
   "result": {
-    "id": "carboncraft:steel_sword"
+    "id": "carboncraft:steel_helmet"
   }
 }

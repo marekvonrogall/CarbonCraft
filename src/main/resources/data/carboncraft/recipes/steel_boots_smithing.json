@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "carboncraft:steel_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_boots"
+  },
+  "result": {
+    "count": 1,
+    "id": "carboncraft:steel_boots"
+  },
+  "template": {
+    "item": "carboncraft:steel_ingot"
+  }
+}

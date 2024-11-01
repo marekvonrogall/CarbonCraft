@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "# #",
+    "# #",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "carboncraft:steel_ingot"
+    }
+  },
+  "result": {
+    "id": "carboncraft:steel_boots"
+  }
+}

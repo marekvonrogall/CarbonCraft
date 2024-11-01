@@ -4,13 +4,13 @@
     "item": "carboncraft:steel_ingot"
   },
   "base": {
-    "item": "minecraft:iron_sword"
+    "item": "minecraft:iron_leggings"
   },
   "result": {
     "count": 1,
-    "id": "carboncraft:steel_sword"
+    "id": "carboncraft:steel_leggings"
   },
   "template": {
-    "item": "minecraft:netherite_upgrade_smithing_template"
+    "item": "carboncraft:steel_ingot"
   }
 }
