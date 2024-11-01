@@ -85,6 +85,16 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 <img src="https://github.com/user-attachments/assets/826b7e6f-714d-4b33-8bd0-5acfbfaf52af" width="50" height="50">
 
 #### Tools
+![steel_axe](https://github.com/user-attachments/assets/c986c317-c2f5-44cf-9f42-33e56b902825)
+
+![steel_hoe](https://github.com/user-attachments/assets/cd963941-e6c0-41eb-af30-7757c7b29596)
+
+![steel_pickaxe](https://github.com/user-attachments/assets/af667228-63e0-48ad-abdf-b8007238d916)
+
+![steel_shovel](https://github.com/user-attachments/assets/c4f4c6b9-3246-4f50-a695-646f2f62c4d6)
+
+
+![steel_sword](https://github.com/user-attachments/assets/b5023ff7-e1df-4c9d-a437-039ea09cbbad)
 
 
 
