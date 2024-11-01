@@ -43,7 +43,7 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Ofen geöffnet, Brennstoff eingelegt  |  Kohle in Schmelzfach legen     | Es wird Kohle zu Koks geschmolzen |
-| 2.1  | Werkbank geöffnet   |  Eisen, Bruchstein und Glas wird in das Herstellungsfeld gelegt       |  Stahlofen wird ausgegeben |
+| 2.1  | Werkbank geöffnet   |  Eisen, Ofen und Glatter Stein wird in das Herstellungsfeld gelegt       |  Stahlofen wird ausgegeben |
 | 3.1 | Stahlofen platziert  |   Rechtsklick auf Stahlofen  | Stahlofenmenü öffnet sich |
 | 3.2 | Stahlofen platziert, Menü geöffnet  |   Koks und Eisen werden eingesetzt  | Stahl wird ausgegeben |
 | 4.1 | Stahl hergestellt, Werkbank geöffnet | *Zwei Stöcke und 3 Stahl werden eingelegt* | Stahlspitzhacke wird hergestellt |
@@ -57,11 +57,6 @@ Für alle Testfälle ist als Ausgangslage notwendig, dass das Spiel mit der Modi
 | 6.1 | Stahl hergestellt, Werkbank geöffnet | *9 Stahl werden eingelegt* | Stahlblock wird hergestellt |
 | 6.2 | Stahlblock hergestellt | Rechtsklick mit Stahlblock in der Hand | Stahlblock wird platziert |
 | 7.1 | Stahl hergestellt, mit Schmiedetisch interagiert | Eisenwerkzeug und Stahl werden in Schmiedetisch gelegt | Eisenwerkzeug wird zu Stahl verbessert |
-
-
-### 1.4 Diagramme
-
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 #### Items
 <img src= "https://github.com/user-attachments/assets/35740aa1-7eb2-42c5-8182-3c10433b951c" width="50" hight="50">
@@ -136,7 +131,7 @@ Total: 27.1 Arbeitsblöcke = 1’219.5 Minuten
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns Entschieden unser Projekt nach den von uns definierten Userstorys umzusetzen.
 
 ## 4 Realisieren
 
@@ -148,29 +143,27 @@ Total: 27.1 Arbeitsblöcke = 1’219.5 Minuten
 | 2.A  | 30.08.2024  | Marek von Rogall              | 0.5           | 0.5               |
 | 2.B  | 06.09.2024  | Marek von Rogall              | 1.5           | 1.7               |
 | 2.C  | 13.09.2024  | Marek von Rogall              | 2             | 1                  |
-| 2.D  | 20.09.2024  | Stefan Jesenko & Marek von Rogall | 3         |                   |
+| 2.D  | 20.09.2024  | Stefan Jesenko & Marek von Rogall | 3         | 3.2                 |
 | 3.A  | 30.08.2024  | Manuel Jonas Greub            | 0.5           | 0.8               |
 | 3.B  | 30.08.2024  | Pascal Martin Oestrich        | 0.5           |    0.5               |
 | 3.C  | 13.09.2024  | Pascal Martin Oestrich        | 0.5             |    0.1               |
-| 3.D  | 20.09.2024  | Pascal Martin Oestrich & Marek von Rogall | 3   |                   |
+| 3.D  | 20.09.2024  | Pascal Martin Oestrich & Marek von Rogall | 3   |    2.5              |
 | 3.E  | 13.09.2024  | Marek von Rogall              | 0.5           |      0.7             |
-| 4.A  | 30.08.2024  | Stefan Jesenko                | 1             |                   |
-| 4.B  | 20.09.2024  | Stefan Jesenko                | 3             |                   |
+| 4.A  | 30.08.2024  | Stefan Jesenko                | 1             |      1            |
+| 4.B  | 20.09.2024  | Stefan Jesenko                | 3             |      3            |
 | 4.C  | 06.09.2024  | Stefan Jesenko                | 1             |    3              |
-| 4.D  | 13.09.2024  | Stefan Jesenko                | 0.5           |                   |
+| 4.D  | 13.09.2024  | Stefan Jesenko                | 0.5           |      1            |
 | 5.A  | 30.08.2024  | Pascal Martin Oestrich        | 1             |      1             |
-| 5.B  | 20.09.2024  | Pascal Martin Oestrich        | 1             |                   |
-| 5.C  | 06.09.2024  | Pascal Martin Oestrich        | 0.5           |                   |
-| 5.D  | 13.09.2024  | Pascal Martin Oestrich        | 1             |                   |
+| 5.B  | 20.09.2024  | Pascal Martin Oestrich        | 1             |      0.6            |
+| 5.C  | 06.09.2024  | Pascal Martin Oestrich        | 0.5           |       0.8          |
+| 5.D  | 13.09.2024  | Pascal Martin Oestrich        | 1             |         1         |
 | 6.A  | 30.08.2024  | Manuel Jonas Greub            | 0.5           | 0.5               |
 | 6.B  | 06.09.2024  | Marek von Rogall              | 0.5           |     0.5           |
 | 6.C  | 13.09.2024  | Manuel Jonas Greub            | 0.5           |     0.1           |
 | 6.D  | 13.09.2024  | Marek von Rogall              | 0.5           |     0.5            |
-| 7.A  | 13.09.2024  | Manuel Jonas Greub            | 1             |                   |
-| 7.B  | 13.09.2024  | Stefan Jesenko                | 1             |                   |
+| 7.A  | 13.09.2024  | Manuel Jonas Greub            | 1             |         1         |
+| 7.B  | 13.09.2024  | Stefan Jesenko                | 1             |         1         |
 
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -178,20 +171,28 @@ Total: 27.1 Arbeitsblöcke = 1’219.5 Minuten
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |01.11.2024|OK|Stefan Jesenko|
+| 2.1  |01.11.2024|OK|Stefan Jesenko|
+| 3.1  |01.11.2024|NOK|Stefan Jesenko|
+| 3.2  |01.11.2024|NOK|Stefan Jesenko|
+| 4.1  |01.11.2024|OK|Stefan Jesenko|
+| 4.2  |01.11.2024|OK|Stefan Jesenko|
+| 4.3  |01.11.2024|OK|Stefan Jesenko|
+| 4.4  |01.11.2024|OK|Stefan Jesenko|
+| 5.1  |01.11.2024|OK|Stefan Jesenko|
+| 5.2  |01.11.2024|OK|Stefan Jesenko|
+| 5.3  |01.11.2024|OK|Stefan Jesenko|
+| 5.4  |01.11.2024|OK|Stefan Jesenko|
+| 6.1  |01.11.2024|OK|Stefan Jesenko|
+| 6.2  |01.11.2024|OK|Stefan Jesenko|
+| 7.1  |01.11.2024|OK|Stefan Jesenko|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
+Die Tests sind generell gut gelaufen, dass einzige was nicht funktioniert hat, war das Interface des Ofens und das schmelzen des Stahls.
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
