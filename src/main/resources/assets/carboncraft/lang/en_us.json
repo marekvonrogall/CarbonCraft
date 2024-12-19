@@ -1,0 +1,16 @@
+{
+  "item.carboncraft.steel_ingot": "Steel Ingot",
+  "item.carboncraft.coke": "Coke",
+  "block.carboncraft.steel_furnace": "Steel Furnace",
+  "block.carboncraft.steel_block": "Block of Steel",
+  "item.carboncraft.steel_axe": "Steel Axe",
+  "item.carboncraft.steel_pickaxe": "Steel Pickaxe",
+  "item.carboncraft.steel_hoe": "Steel Hoe",
+  "item.carboncraft.steel_shovel": "Steel Shovel",
+  "item.carboncraft.steel_sword": "Steel Sword",
+  "item.carboncraft.steel_helmet": "Steel Helmet",
+  "item.carboncraft.steel_chestplate": "Steel Chestplate",
+  "item.carboncraft.steel_leggings": "Steel Leggings",
+  "item.carboncraft.steel_boots": "Steel Boots",
+  "itemgroup.carboncraft": "CarbonCraft Items"
+}

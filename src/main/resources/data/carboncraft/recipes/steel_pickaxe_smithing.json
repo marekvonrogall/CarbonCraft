@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "carboncraft:steel_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "result": {
+    "count": 1,
+    "id": "carboncraft:steel_pickaxe"
+  },
+  "template": {
+    "item": "carboncraft:steel_ingot"
+  }
+}

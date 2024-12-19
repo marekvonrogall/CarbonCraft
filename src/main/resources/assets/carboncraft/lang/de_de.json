@@ -1,0 +1,16 @@
+{
+  "item.carboncraft.steel_ingot": "Stahlbarren",
+  "item.carboncraft.coke": "Koks",
+  "block.carboncraft.steel_furnace": "Stahlofen",
+  "block.carboncraft.steel_block": "Stahlblock",
+  "item.carboncraft.steel_axe": "Stahlaxt",
+  "item.carboncraft.steel_pickaxe": "Stahlspitzhacke",
+  "item.carboncraft.steel_hoe": "Stahlhacke",
+  "item.carboncraft.steel_shovel": "Stahlschaufel",
+  "item.carboncraft.steel_sword": "Stahlschwert",
+  "item.carboncraft.steel_helmet": "Stahlhelm",
+  "item.carboncraft.steel_chestplate": "Stahlbrustpanzer",
+  "item.carboncraft.steel_leggings": "Stahlhose",
+  "item.carboncraft.steel_boots": "Stahlstiefel",
+  "itemgroup.carboncraft": "CarbonCraft Gegenstände"
+}

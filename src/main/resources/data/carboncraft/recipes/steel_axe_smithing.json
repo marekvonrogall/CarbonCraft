@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "carboncraft:steel_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_axe"
+  },
+  "result": {
+    "count": 1,
+    "id": "carboncraft:steel_axe"
+  },
+  "template": {
+    "item": "carboncraft:steel_ingot"
+  }
+}
